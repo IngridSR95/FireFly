@@ -22,7 +22,8 @@
    ```bash
    git clone https://github.com/seu-usuario/firefly.git
    ```
-2. Abra o arquivo `index.html` no navegador. 
+2. Abra o arquivo `index.html` no navegador.
+3. Ou pelo link [FireFly](http://grupogigi.000.pe/FireFly)
 
 ## API Utilizada ☁️
 
