@@ -32,4 +32,4 @@
   - Necessário utilizar a chave de API (`vagalumeKey`) no arquivo `scripts.js`.
 
 ### 📱 Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-santana-rodrigues-149750273/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=A084DC)](https://www.linkedin.com/in/ingrid-santana-rodrigues-149750273/)
